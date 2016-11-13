@@ -21,7 +21,7 @@
     <!-- The color tints to apply to the text and drag view when hovering
          over the delete target or the info target -->
     <color name="delete_target_hover_tint">#FFC1C1C1</color>
-    <color name="uninstall_target_hover_tint">#FFF0592B</color>
+    <color name="uninstall_target_hover_tint">#FF4384f0</color>
     <color name="info_target_hover_tint">#FF4384f0</color>
     <color name="cling_scrim_background">#80000000</color>
 
@@ -34,7 +34,7 @@
 
     <color name="quantum_panel_text_color">#FF666666</color>
     <color name="quantum_panel_bg_color">#FFF5F5F5</color>
-    <color name="quantum_panel_bg_color_dark">#FF374248</color>
+    <color name="quantum_panel_bg_color_dark">#FF3e4147</color>
 
     <color name="outline_color">#FFFFFFFF</color>
 
@@ -49,9 +49,9 @@
     <!-- Widgets view -->
     <color name="widgets_view_section_text_color">#FFFFFF</color>
     <color name="widgets_view_item_text_color">#C4C4C4</color>
-    <color name="widgets_cell_color">#263238</color>
+    <color name="widgets_cell_color">#2a2c31</color>
 
     <color name="accent">#4384f0</color>
-    <color name="primary_color">#3F51B5</color>
-    <color name="primary_dark_color">#303F9F</color>
+    <color name="primary_color">#3e4147</color>
+    <color name="primary_dark_color">#2a2c31</color>
 </resources>

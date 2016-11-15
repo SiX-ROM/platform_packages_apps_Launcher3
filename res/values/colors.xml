@@ -20,7 +20,7 @@
 <resources>
     <!-- The color tints to apply to the text and drag view when hovering
          over the delete target or the info target -->
-    <color name="delete_target_hover_tint">#FFC1C1C1</color>
+    <color name="delete_target_hover_tint">#FF8d8d8d</color>
     <color name="uninstall_target_hover_tint">#FF4384f0</color>
     <color name="info_target_hover_tint">#FF4384f0</color>
     <color name="cling_scrim_background">#80000000</color>
@@ -32,8 +32,8 @@
     <color name="workspace_edge_effect_color">#FFFFFFFF</color>
     <color name="folder_edge_effect_color">#FF757575</color>
 
-    <color name="quantum_panel_text_color">#FF666666</color>
-    <color name="quantum_panel_bg_color">#FFF5F5F5</color>
+    <color name="quantum_panel_text_color">#FFFFFFFF</color>
+    <color name="quantum_panel_bg_color">#FF111111</color>
     <color name="quantum_panel_bg_color_dark">#FF3e4147</color>
 
     <color name="outline_color">#FFFFFFFF</color>
